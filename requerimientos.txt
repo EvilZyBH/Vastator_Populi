@@ -1,0 +1,13 @@
+bs4
+pyfiglet
+colorama
+requests
+phonenumbers
+selenium
+beautifulsoup4
+webdrivermanager
+html5lib
+config
+Pillow
+qrcode
+pygame
