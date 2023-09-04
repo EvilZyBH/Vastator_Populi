@@ -5,7 +5,7 @@ Herramienta hecha en Python enfocada en OSINT(Open Source INTelligence) y un poc
 # Instalación en Kali linux, ubuntu, Parrot OS.
 git clone https://github.com/EvilZyBH/Vastator_Populi.git
 
-cd Vastator_Populi
+cd 'Vastator Populi'
 
 bash installdebian.sh
 
@@ -21,7 +21,7 @@ python3 VastatorPopuli.py
 # Instalación en Arch Linux
 git clone https://github.com/EvilZyBH/Vastator_Populi.git
 
-cd Vastator_Populi
+cd 'Vastator Populi'
 
 bash installarch.sh
 
